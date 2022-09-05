@@ -12,4 +12,4 @@ AsyncServer is written in C and uses Linux system calls to implement inter-proce
 
 ## Usage/Access
 
-This program was built as an extension of a school project, and the source code is being kept private in accordance with university policies. If you would like to know more please contact me and I can walk you through the project's code.
+This program was built as an extension of a school project, and the source code is being kept private in accordance with university policies. If you would like to know more please [contact me](mailto:jeremygleason@icloud.com) and I can walk you through the project's code.
