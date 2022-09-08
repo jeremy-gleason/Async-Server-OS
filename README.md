@@ -2,7 +2,7 @@
 
 ## Overview
 
-AsyncServer is an Operating System and Networking app implemented in C that replicates key operating system functionality, including process management, multi-threading, and an interactive shell.
+AsyncServer is an Operating System and Networking application implemented in C that replicates key operating system functionality, including process management, multi-threading, and an interactive shell.
 
 It includes asynchronous, event-driven networking capabilities, allowing it to operate as a server and to handle high loads of concurrent client requests.
 
